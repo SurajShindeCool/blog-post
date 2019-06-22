@@ -1,0 +1,54 @@
+body{
+	background: rgba(15,27,73,1);
+background: -moz-linear-gradient(left, rgba(15,27,73,1) 0%, rgba(16,29,146,1) 47%, rgba(15,27,73,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(15,27,73,1)), color-stop(47%, rgba(16,29,146,1)), color-stop(100%, rgba(15,27,73,1)));
+background: -webkit-linear-gradient(left, rgba(15,27,73,1) 0%, rgba(16,29,146,1) 47%, rgba(15,27,73,1) 100%);
+background: -o-linear-gradient(left, rgba(15,27,73,1) 0%, rgba(16,29,146,1) 47%, rgba(15,27,73,1) 100%);
+background: -ms-linear-gradient(left, rgba(15,27,73,1) 0%, rgba(16,29,146,1) 47%, rgba(15,27,73,1) 100%);
+background: linear-gradient(to right, rgba(15,27,73,1) 0%, rgba(16,29,146,1) 47%, rgba(15,27,73,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0f1b49', endColorstr='#0f1b49', GradientType=1 );
+
+font-family: 'KoHo', sans-serif;
+
+}
+
+.top{
+	background: #ffca02;
+	height: 30px;
+}
+
+.top h6{
+	float: right;
+}
+
+.nvBar{
+	background-color: none;
+	border-bottom: #ffca02 1px solid;
+}
+
+.navBtn a{
+	color: #ffca02;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.carousel_m{
+	width: 80%;
+	margin: 0px auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+.second{
+	background: #ffffff;
+	padding: 20px 40px;
+}
+
+.media-carousel 
+{
+  margin-bottom: 0;
+  padding: 0 40px 30px 40px;
+  margin-top: 30px;
+}
+
